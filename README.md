@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -44,7 +43,14 @@
 <body>
     <div class="container">
         <h1>404 - Page Not Found</h1>
-        <p>This could be because the page is not working right, or because we are fixing bugs or updating things.</p>
+        <p>This could be because the page is not working right, This could be because:</p>
+        <P>Incorrect URL: The web address (URL) was mistyped, and the server cannot locate the page.
+           Page Moved: The page has been moved or renamed, and the old URL is no longer valid.
+           Page Deleted: The page has been permanently removed from the website.
+           Broken Link: An outdated or broken link directed the user to a page that no longer exists.
+           Server Issues: There may be temporary server problems or maintenance affecting access to the page.
+           Permissions Restrictions: The page may exist but is restricted due to access permissions or privacy settings.
+           Outdated: The page isn't updated.</P>
     </div>
 </body>
 </html>
